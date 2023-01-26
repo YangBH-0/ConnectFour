@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6172#comment
+status: Failed
+feedback:
+  message: "Compilation error\nmain.kt:22:5: error: function invocation 'print(...)'\
+    \ expected\n    print\n    ^\nmain.kt:22:5: error: none of the following functions\
+    \ can be called with the arguments supplied: \npublic inline fun print(message:\
+    \ Any?): Unit defined in kotlin.io\npublic inline fun print(message: Boolean):\
+    \ Unit defined in kotlin.io\npublic inline fun print(message: Byte): Unit defined\
+    \ in kotlin.io\npublic inline fun print(message: Char): Unit defined in kotlin.io\n\
+    public inline fun print(message: CharArray): Unit defined in kotlin.io\npublic\
+    \ inline fun print(message: Double): Unit defined in kotlin.io\npublic inline\
+    \ fun print(message: Float): Unit defined in kotlin.io\npublic inline fun print(message:\
+    \ Int): Unit defined in kotlin.io\npublic inline fun print(message: Long): Unit\
+    \ defined in kotlin.io\npublic inline fun print(message: Short): Unit defined\
+    \ in kotlin.io\n    print\n    ^\n"
+  time: Thu, 26 Jan 2023 08:00:26 UTC
+record: -1

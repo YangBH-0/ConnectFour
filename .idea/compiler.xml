@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task-build-classes-kotlin.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task.main" target="11" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-List_indexes.main" target="11" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-Print_all_elements.main" target="11" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-Right_Rotation.main" target="11" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-Triples.main" target="11" />
+      <module name="Connect_Four.Topics-Getting_substrings-Case_insensitive.main" target="11" />
+      <module name="Connect_Four.Topics-Getting_substrings-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="11" />
+      <module name="Connect_Four.Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Jumps_and_returns-Correct_jumping.main" target="11" />
+      <module name="Connect_Four.Topics-Jumps_and_returns-First_digit.main" target="11" />
+      <module name="Connect_Four.Topics-Jumps_and_returns-Placement_of_ships.main" target="11" />
+      <module name="Connect_Four.Topics-Jumps_and_returns-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Jumps_and_returns-Unique_characters.main" target="11" />
+      <module name="Connect_Four.Topics-List-Are_you_there.main" target="11" />
+      <module name="Connect_Four.Topics-List-Concise.main" target="11" />
+      <module name="Connect_Four.Topics-List-Even_numbers.main" target="11" />
+      <module name="Connect_Four.Topics-List-Indexes.main" target="11" />
+      <module name="Connect_Four.Topics-List-It's_all_about_the_List.main" target="11" />
+      <module name="Connect_Four.Topics-List-Number_of_occurrences.main" target="11" />
+      <module name="Connect_Four.Topics-List-Sum_of_numbers.main" target="11" />
+      <module name="Connect_Four.Topics-List-The_second_of_T.main" target="11" />
+      <module name="Connect_Four.Topics-List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="11" />
+      <module name="Connect_Four.Topics-Multi-dimensional_list-Indexing_rules.main" target="11" />
+      <module name="Connect_Four.Topics-Multi-dimensional_list-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Adding.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Mutable_List.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-MutableList_properties.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-New_List.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Updating_an_element.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Cutting_out_the_middle_of_a_string.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Generating_passwords.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Lucky_number.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Parse_url.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Can_you.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Matching_pattern.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-The_dot.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Empty.main" target="11" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Guard_On_The_Gate.main" target="11" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Initialization.main" target="11" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Yet_another_list.main" target="11" />
+      <module name="Connect_Four.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

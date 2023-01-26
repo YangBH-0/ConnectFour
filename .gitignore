@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Connect Four/task/build/
+/Topics/Getting substrings/Theory/out/
+/Topics/Getting substrings/Theory/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/production/classes/
+/Topics/Jumps and returns/Placement of ships/out/
+/Topics/Jumps and returns/Placement of ships/out/production/classes/
+/Topics/Jumps and returns/Unique characters/out/
+/Topics/Jumps and returns/Unique characters/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
